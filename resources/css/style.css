@@ -24,6 +24,12 @@ color: #ffffff;
 
 }
 
+.header--footer{
+    font-size: 21px;
+    text-align: right;
+    color: grey;
+}
+
 /*LINKS*/
 
 .link--cta{
